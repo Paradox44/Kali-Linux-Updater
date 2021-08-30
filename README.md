@@ -1,4 +1,4 @@
-# Automatic-Kali-Linux-Updater
+# Kali-Linux-Updater
 
 [![info](https://badgen.net/badge/Project/Info/blue?icon=information)](https://github.com/Paradox44/Automatic-Kali-Linux-Updater/)
 [![Open source](https://badgen.net/badge/Open%20Source%3F/Yes%20%21/blue)](#)
@@ -8,7 +8,7 @@
 
 ## **About**
 
-**Automatic Kali-Linux-Updater is a python script which is specifically designed for Kali Linux which is used to update, upgrade and install root login on it.**
+**Kali-Linux-Updater is a python script which is specifically designed for Kali Linux which is used to update, upgrade and install root login on it.**
 
 ## **Features**
 
@@ -26,7 +26,7 @@
 su -i
 ```
 
-## How to Setup Automatic-Kali-Linux-Updater
+## How to Setup Kali-Linux-Updater
 
 >**Create new directiory** `Optional Setup`
 
@@ -38,7 +38,7 @@ mkdir 'Kali_Updater'
 cd 'Kali_Updater'
 ```
 
->**Clone Automatic-Kali-Linux-Updater from github**
+>**Clone Kali-Linux-Updater from github**
 
 ```console
 git clone "https://github.com/Paradox44/Automatic-Kali-Linux-Updater.git"
@@ -57,7 +57,7 @@ git clone "https://github.com/Paradox44/Automatic-Kali-Linux-Updater.git"
 |--------------------------------------------------|
 ```
 
->**Whenever you want to use Automatic MAC Changer AMC follow these steps.**
+>**Whenever you want to use Kali-Linux-Updater follow these steps.**
 
 
 >**Example**
