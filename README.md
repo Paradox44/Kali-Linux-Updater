@@ -1,5 +1,11 @@
 # Automatic-Kali-Linux-Updater
 
+[![info](https://badgen.net/badge/Project/Info/blue?icon=information)](https://github.com/Paradox44/Automatic-Kali-Linux-Updater/)
+[![Open source](https://badgen.net/badge/Open%20Source%3F/Yes%20%21/blue)](#)
+[![GNU 2.0 license](https://badgen.net/badge/License/GNU%202.0/orange)](https://github.com/Paradox44/Automatic-Kali-Linux-Updater/blob/main/LICENSE)
+[![Python](https://badgen.net/badge/Made%20with/Python3/blue)](https://github.com/Paradox44/Automatic-Kali-Linux-Updater/)
+[![status](https://badgen.net/badge/Status/Beta/yellow)](#)
+
 ## **About**
 
 **Automatic Kali-Linux-Updater is a python script which is specifically designed for Kali Linux which is used to update, upgrade and install root login on it.**
