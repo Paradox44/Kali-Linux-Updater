@@ -65,5 +65,13 @@ git clone "https://github.com/Paradox44/Automatic-Kali-Linux-Updater.git"
  python3 Kali_Updater.py
 ```
 
+## Connect Us
+
+Sr. | Script Name | Github  | Twitter | Email |
+--- | --- | --- | --- | --- |
+1.| main.py |[![github](https://badgen.net/badge/icon/Itachi-91?icon=github&label)](https://github.com/Itachi-91)|[![twitter](https://badgen.net/badge/icon/itachi_9197?icon=twitter&label)](https://twitter.com/itachi_9197)|[![email](https://badgen.net/badge/email/itachiuchiha9197/blue)](mailto:itachiuchiha9197@gmail.com)|
+2.| functions.py |[![github](https://badgen.net/badge/icon/Paradox44?icon=github&label)](https://github.com/Paradox44)|[![twitter](https://badgen.net/badge/icon/Paradox_044?icon=twitter&label)](https://twitter.com/Paradox_044)|[![email](https://badgen.net/badge/email/paradoxhex44/blue)](mailto:paradoxhex44@gmail.com)|
+3.| display.py |[![github](https://badgen.net/badge/icon/Athena-077?icon=github&label)](https://github.com/Athena-077)|[![twitter](https://badgen.net/badge/icon/athena_74047?icon=twitter&label)](https://twitter.com/athena_74047)|[![email](https://badgen.net/badge/email/athena74047/blue)](mailto:athena74047@gmail.com)|
+
 
 
