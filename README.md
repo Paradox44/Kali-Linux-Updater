@@ -51,7 +51,7 @@ git clone "https://github.com/Paradox44/Automatic-Kali-Linux-Updater.git"
 |--------------------------------------------------|
 ```
 
-## >**Whenever you want to use Automatic MAC Changer AMC follow these steps.**
+>**Whenever you want to use Automatic MAC Changer AMC follow these steps.**
 
 
 >**Example**
