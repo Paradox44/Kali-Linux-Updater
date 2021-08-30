@@ -41,7 +41,7 @@ cd 'Kali_Updater'
 >**Clone Kali-Linux-Updater from github**
 
 ```console
-git clone "https://github.com/Paradox44/Automatic-Kali-Linux-Updater.git"
+git clone "https://github.com/Paradox44/Kali-Linux-Updater.git"
 ```
 
 >**Available options**
