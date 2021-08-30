@@ -73,5 +73,11 @@ Sr. | Script Name | Github  | Twitter | Email |
 2.| functions.py |[![github](https://badgen.net/badge/icon/Paradox44?icon=github&label)](https://github.com/Paradox44)|[![twitter](https://badgen.net/badge/icon/Paradox_044?icon=twitter&label)](https://twitter.com/Paradox_044)|[![email](https://badgen.net/badge/email/paradoxhex44/blue)](mailto:paradoxhex44@gmail.com)|
 3.| display.py |[![github](https://badgen.net/badge/icon/Athena-077?icon=github&label)](https://github.com/Athena-077)|[![twitter](https://badgen.net/badge/icon/athena_74047?icon=twitter&label)](https://twitter.com/athena_74047)|[![email](https://badgen.net/badge/email/athena74047/blue)](mailto:athena74047@gmail.com)|
 
+>We hope you like our project. If 'Yes' click on the star icon at the top right corner or leave a comment so we can improve this script.
+
+:heart: from Alchemists.
+
+---
+
 
 
