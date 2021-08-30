@@ -59,3 +59,5 @@ git clone "https://github.com/Paradox44/Automatic-Kali-Linux-Updater.git"
  python3 Kali_Updater.py
 ```
 
+
+
