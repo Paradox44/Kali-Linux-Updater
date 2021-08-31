@@ -17,14 +17,11 @@
 3. Basic Command Line script and doesn't affect your system performance.
 4. This script full for beginners who are learning Kali Linux.
 
-## **⚠️Important Instructions⚠️**
+## **Important Instructions**
 
 - [X] This script is specifically designed for `Kali Linux` only.
 - [X] To minimize error's run this script as `root user`.
-- [X] if root login is not installed in system then use 
-```console
-su -i
-```
+
 
 ## How to Setup Kali-Linux-Updater
 
@@ -62,7 +59,7 @@ git clone "https://github.com/Paradox44/Kali-Linux-Updater.git"
 
 >**Example**
 ```console
- python3 Kali_Updater.py
+ python3 main.py
 ```
 
 ## Connect Us
